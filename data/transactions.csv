@@ -1,0 +1,36 @@
+date,time,amount_gel,direction,merchant,reference,channel
+2026-09-01,09:14,2850.00,in,Employer Ltd,September salary,transfer
+2026-09-01,18:40,46.20,out,Corner Market Vake,groceries,card
+2026-09-02,08:05,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-02,13:22,18.90,out,Food Delivery App,lunch order,card
+2026-09-03,19:10,52.75,out,Corner Market Vake,groceries,card
+2026-09-04,08:02,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-04,12:30,24.00,out,City Pharmacy,pharmacy purchase,card
+2026-09-05,10:00,25.00,out,Mobile Operator,monthly top up,online
+2026-09-05,21:15,9.80,out,Taxi App,ride home,card
+2026-09-06,11:45,95.00,out,Fuel Station Saburtalo,fuel,card
+2026-09-07,10:00,64.30,out,Electricity Company,electricity bill,online
+2026-09-08,18:55,38.10,out,Corner Market Vake,groceries,card
+2026-09-09,08:06,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-10,13:05,21.40,out,Food Delivery App,lunch order,card
+2026-09-11,20:30,120.00,out,Restaurant Old Town,dinner,card
+2026-09-12,19:20,49.60,out,Corner Market Vake,groceries,card
+2026-09-13,03:12,900.00,out,Online Casino Ltd,deposit,online
+2026-09-14,10:00,800.00,out,Landlord,September rent,transfer
+2026-09-15,08:03,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-15,22:05,11.20,out,Taxi App,ride home,card
+2026-09-16,12:15,19.50,out,Food Delivery App,lunch order,card
+2026-09-17,18:45,44.90,out,Corner Market Vake,groceries,card
+2026-09-18,11:30,90.00,out,Fuel Station Saburtalo,fuel,card
+2026-09-19,14:02,4800.00,out,Unknown Beneficiary Dubai,invoice 4471 urgent,transfer
+2026-09-20,10:00,30.00,out,Gym Vake,monthly membership,card
+2026-09-21,19:15,57.30,out,Corner Market Vake,groceries,card
+2026-09-22,08:04,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-23,13:10,23.70,out,Food Delivery App,lunch order,card
+2026-09-24,02:47,1500.00,out,Gift Card Store Online,10 gift cards,online
+2026-09-25,17:40,26.00,out,City Pharmacy,pharmacy purchase,card
+2026-09-26,19:05,41.80,out,Corner Market Vake,groceries,card
+2026-09-27,23:58,600.00,out,ATM Batumi Seafront,cash withdrawal,atm
+2026-09-28,08:01,3.50,out,Metro Tbilisi,metro fare,card
+2026-09-29,21:40,10.40,out,Taxi App,ride home,card
+2026-09-30,18:30,48.20,out,Corner Market Vake,groceries,card
